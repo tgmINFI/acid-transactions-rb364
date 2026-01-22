@@ -3,7 +3,7 @@ QMainWindow {
 }
 
 QLabel {
-    color: #e0e0e0;
+    color: #f7931e;
     font-size: 14px;
     font-family: "Segoe UI", Arial;
 }
